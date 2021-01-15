@@ -1,5 +1,5 @@
 # BSPlus_MapDownloader
-Download Maps and Playlist from BeatsaberPlusApi
-With an WPF Interface
+Download Maps and Playlist from BeatSaver
+With an WPF Material Design Interface and DarkTheme
 
-![](https://jupilian.site/i/uphziefb.png)
+![](https://jupilian.site/i/xcq4qqsc.png)
