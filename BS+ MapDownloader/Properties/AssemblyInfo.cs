@@ -7,11 +7,11 @@ using System.Windows;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("BS+ MapDownloader")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("BSMDLA")]
+[assembly: AssemblyDescription("BeatSaber Map Download Assistant")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BS+ MapDownloader")]
+[assembly: AssemblyProduct("BSMDLA")]
 [assembly: AssemblyCopyright("Copyright © Julien Ropers 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -51,5 +51,5 @@ using System.Windows;
 // Vous pouvez spécifier toutes les valeurs ou indiquer les numéros de build et de révision par défaut
 // en utilisant '*', comme indiqué ci-dessous :
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]

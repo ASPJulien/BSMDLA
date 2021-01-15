@@ -4,14 +4,28 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BS__MapDownloader"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="BS+ Map Downloader" Height="335" Width="360" ResizeMode="CanMinimize">
-    <Grid>
-        <TextBox Name="MapKey" HorizontalAlignment="Left" Height="17" Margin="30,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextChanged="MapKey_OnTextChanged" Width="71"/>
-        <Label Content="BSR Key:" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top"/>
-        <Image Name="MapImage" HorizontalAlignment="Left" Height="100" Margin="20,90,0,0" VerticalAlignment="Top" Width="100"/>
-        <Label Name="MapName" Content="" HorizontalAlignment="Left" Margin="132,105,0,0" VerticalAlignment="Top" Width="197" Height="73"/>
-        <Button Content="Download" HorizontalAlignment="Left" Margin="30,202,0,0" VerticalAlignment="Top" Width="299" Click="Button_Click" Height="45"/>
-        <Button Content="Playlist Download" HorizontalAlignment="Left" Margin="30,252,0,0" VerticalAlignment="Top" Width="299" Click="Playlist_Button_Click" Height="34"/>
+        Title="BeatSaber Map Assistant" Height="335" Width="360" ResizeMode="CanMinimize">
+    <Grid Name="MainGrid"  Background="AliceBlue">
+        <TextBox
+            Name="MapKey"
+            TextChanged="MapKey_OnTextChanged"
+            materialDesign:HintAssist.Hint="BSR Key"
+            Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+            VerticalAlignment="Center" Margin="20,21,213,205" Height="80" FontSize="16" />
+        <Image Name="MapImage" HorizontalAlignment="Left" Height="100" Margin="20,82,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Name="MapName" Content="" HorizontalAlignment="Left" Margin="132,93,0,0" VerticalAlignment="Top" Width="197" Height="73"/>
+        <Button Content="Download" HorizontalAlignment="Left" Margin="20,195,0,0" VerticalAlignment="Top" Width="309" Click="Button_Click" Height="45"/>
+        <Button Content="Playlist Download" HorizontalAlignment="Left" Margin="20,245,0,0" VerticalAlignment="Top" Width="309" Click="Playlist_Button_Click" Height="34"/>
+        <ToggleButton
+            Name="DarkThemeButton"
+            Style="{StaticResource MaterialDesignFlatToggleButton}"
+            ToolTip="MaterialDesignFlatToggleButton" Margin="294,10,10,246" Height="Auto" Width="Auto" Checked="ToggleButton_Checked" Unchecked="ToggleButton_Checked">
+            <materialDesign:PackIcon
+                Kind="ThemeLightDark"
+                Height="21"
+                Width="21" />
+        </ToggleButton>
     </Grid>
 </Window>

@@ -21,6 +21,9 @@ namespace BS__MapDownloader
     /// </summary>
     public partial class MainWindow : Window
     {
+        private SolidColorBrush colorWhite = new SolidColorBrush(Color.FromRgb(255, 248, 225));
+        private SolidColorBrush colorDark = new SolidColorBrush(Color.FromRgb(96, 125, 139));
+
         public MainWindow()
         {
         
@@ -28,19 +31,19 @@ namespace BS__MapDownloader
          private void Button_Click(object sender, RoutedEventArgs e)
          {
              if (Program.BSRCorrect)
-                 Program.DownloadUrl(Program.mapdetails.downloadURL);
+                 Program.DownloadUrl(new Uri(Program.urlBase + Program.mapdetails.downloadURL));
          }    
          
         private void MapKey_OnTextChanged(object sender, TextChangedEventArgs e)
         {
             string enteredBSR;
-            enteredBSR = @"https://maps.beatsaberplus.com/api/maps/detail/" + MapKey.Text;
+            enteredBSR = @"https://beatsaver.com/api/maps/detail/" + MapKey.Text;
             Program.ReadLink(enteredBSR);
             if (Program.BSRCorrect)
             {
                 MapName.Content = Program.mapdetails.name;
                 var image = new Image();
-                var fullFilePath = Program.mapdetails.coverURL;
+                var fullFilePath = new Uri(Program.urlBase + Program.mapdetails.coverURL);
 
                 BitmapImage bitmap = new BitmapImage();
                 bitmap.BeginInit();
@@ -53,6 +56,19 @@ namespace BS__MapDownloader
         private void Playlist_Button_Click(object sender, RoutedEventArgs e)
         {
             Program.DecodePlaylist();
+        }
+
+        private void ToggleButton_Checked(object sender, RoutedEventArgs e)
+        {
+            if (DarkThemeButton.IsChecked == false)
+            {
+                MainGrid.Background = colorWhite;
+            }
+
+            if (DarkThemeButton.IsChecked == true)
+            {
+                MainGrid.Background = colorDark;
+            }
         }
     }
 }

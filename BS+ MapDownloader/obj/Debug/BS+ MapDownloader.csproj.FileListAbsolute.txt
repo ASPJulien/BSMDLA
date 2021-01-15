@@ -16,3 +16,12 @@ C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ M
 C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.CopyComplete
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignColors.dll
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.pdb
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\App.baml
