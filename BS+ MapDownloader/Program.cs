@@ -74,9 +74,7 @@ namespace BS__MapDownloader
                 try
                 {
                     string playlistJson = File.ReadAllText(openFileDialog.FileName);
-                    MessageBox.Show(playlistJson);
                     PlaylistDetails playlist = JsonConvert.DeserializeObject<PlaylistDetails>(playlistJson);
-                    MessageBox.Show(playlist.songs.Count.ToString());
                     SaveFileDialog saveMaFileDialog = new SaveFileDialog();
                     foreach (var map in playlist.songs)
                         map.hash = map.hash.ToLower();
@@ -112,7 +110,7 @@ namespace BS__MapDownloader
                 }
                 catch (Exception e)
                 {
-                    MessageBox.Show(e.ToString());
+                    MessageBox.Show("Error");
                 }
             }
         }
