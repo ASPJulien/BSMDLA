@@ -21,7 +21,7 @@ namespace BS__MapDownloader
     /// </summary>
     public partial class MainWindow : Window
     {
-        private SolidColorBrush colorWhite = new SolidColorBrush(Color.FromRgb(255, 248, 225));
+        private SolidColorBrush colorWhite = new SolidColorBrush(Color.FromRgb(255, 255, 255));
         private SolidColorBrush colorDark = new SolidColorBrush(Color.FromRgb(96, 125, 139));
 
         public MainWindow()

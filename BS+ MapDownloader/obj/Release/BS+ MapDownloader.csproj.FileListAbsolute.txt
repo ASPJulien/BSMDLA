@@ -19,3 +19,9 @@ C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Release\BS+
 C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\Ookii.Dialogs.Wpf.dll
 C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\Ookii.Dialogs.Wpf.pdb
 C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\Ookii.Dialogs.Wpf.xml
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\MaterialDesignColors.dll
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\MaterialDesignColors.pdb
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Release\App.baml
