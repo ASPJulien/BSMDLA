@@ -1,4 +1,5 @@
-# BSPlus_MapDownloader
+# BSMDLA
+### BeatSaber Map Download Assistant
 Download Maps and Playlist from BeatSaver
 With an WPF Material Design Interface and DarkTheme
 
