@@ -3,4 +3,4 @@
 Download Maps and Playlist from BeatSaver
 With an WPF Material Design Interface and DarkTheme
 
-![](https://jupilian.site/i/xcq4qqsc.png)
+![](https://user-images.githubusercontent.com/49618271/104770256-956f8700-5770-11eb-86cc-30016ef2302e.png)
