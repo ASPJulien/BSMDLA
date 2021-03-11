@@ -1,27 +1,24 @@
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\BS+ MapDownloader.exe.config
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\BS+ MapDownloader.exe
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\BS+ MapDownloader.pdb
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csprojAssemblyReference.cache
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\MainWindow.g.cs
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\App.g.cs
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader_MarkupCompile.cache
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader_MarkupCompile.lref
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\MainWindow.baml
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.g.resources
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS__MapDownloader.Properties.Resources.resources
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.GenerateResource.cache
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.CoreCompileInputs.cache
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.exe
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.pdb
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.CopyComplete
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignColors.dll
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.dll
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.dll
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignColors.pdb
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.pdb
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.xml
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.pdb
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.xml
-C:\Users\Julien\source\repos\BS+ MapDownloader\BS+ MapDownloader\obj\Debug\App.baml
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\BS+ MapDownloader.exe.config
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\BS+ MapDownloader.exe
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\BS+ MapDownloader.pdb
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\MaterialDesignColors.dll
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\MaterialDesignThemes.Wpf.dll
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\Newtonsoft.Json.dll
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.dll
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\Newtonsoft.Json.xml
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.pdb
+B:\Bureau\BSMDLA\BS+ MapDownloader\bin\Debug\Ookii.Dialogs.Wpf.xml
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csprojAssemblyReference.cache
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\MainWindow.g.cs
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\App.g.cs
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader_MarkupCompile.cache
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader_MarkupCompile.lref
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\App.baml
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\MainWindow.baml
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.g.resources
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS__MapDownloader.Properties.Resources.resources
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.GenerateResource.cache
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.CoreCompileInputs.cache
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.csproj.CopyComplete
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.exe
+B:\Bureau\BSMDLA\BS+ MapDownloader\obj\Debug\BS+ MapDownloader.pdb
